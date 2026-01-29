@@ -2,7 +2,7 @@
 
 Bu proje, üretim hatları için tasarlanmış dinamik bir **OEE (Genel Ekipman Etkinliği)** takip panelidir. Üretim verilerini simüle eder ve performans göstergelerini (KPI) otomatik hesaplar.
 
-![Dashboard Önizleme](dashboard-screenshot.png)
+![Dashboard Önizleme](dashboard.png)
 
 ## 🚀 Özellikler (Features)
 
